@@ -111,6 +111,7 @@
 
               # Copy over ./githooks/pre-commit to .git/hooks/pre-commit
               cp $(pwd)/.githooks/pre-commit $(pwd)/.git/hooks/pre-commit
+              chmod +x $(pwd)/.git/hooks/pre-commit
 
               cat <<'EOF'
                 # CMDext
