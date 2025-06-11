@@ -51,7 +51,7 @@ strip-ansi-escapes = "0.2.1"
 cargo_metadata = "0.19.2"
 
 # docs
-clap-markdown = { git = "https://github.com/movementlabsxyz/clap-markdown.git", rev = "8854f18902cd47fcb7c6b1f0b91127e48bdf5909" }
+clap-markdown = { git = "https://github.com/movementlabsxyz/clap-markdown.git", rev = "514b18abd22d7e6bb4f40d33df35379d6ea6352c" }
 
 clap-markdown-ext = { path = "clap-markdown-ext/clap-markdown-ext" }
 
